@@ -7,3 +7,4 @@ Settings => Secrets => New secret
 
 [借鉴作者](https://github.com/AlanLang/hifini-auto-sign-in)
 
+https://github.com/Xramas/HiFiNi-Auto-Sign
